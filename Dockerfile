@@ -1,0 +1,3 @@
+FROM docker.n8n.io/n8nio/n8n:2.41.2
+
+EXPOSE 5678
